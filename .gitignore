@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+classifier.joblib
+projet_clone/
+*:Zone.Identifier
+.pytest_cache/
